@@ -1,0 +1,11 @@
+streamlit
+plotly
+python-dotenv
+crewai
+litellm
+langchain-community
+langchain-core
+langchain-huggingface
+exa_py
+sentence-transformers
+faiss-cpu
